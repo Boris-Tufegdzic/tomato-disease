@@ -1,0 +1,2 @@
+#json files are generally too large to be pushed on git
+*.json
